@@ -4,22 +4,7 @@
 💻 I share my journey in Data, AI & Full Stack Development.<br/>
 🌱 Constantly learning and exploring new things.<br/>
 
-![Languages Donut](https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{
-    labels:['Python','JavaScript','HTML','CSS','SQL'],
-    datasets:[{
-      data:[40,25,15,10,10],
-      backgroundColor:['#3572A5','#F1E05A','#E34F26','#563D7C','#00758F']
-    }]
-  },
-  options:{
-    plugins:{
-      legend:{position:'right', labels:{color:'#ffffff'}},
-      title:{display:true, text:'Top Languages', color:'#ffffff', font:{size:16}}
-    }
-  },
-  options:{cutout: '50%'}
-})
+![Languages Donut](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22JavaScript%22%2C%22HTML%22%2C%22CSS%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C25%2C15%2C10%2C10%5D%2C%22backgrou)
+
 
 
