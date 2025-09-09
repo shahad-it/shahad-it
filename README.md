@@ -6,9 +6,20 @@
 
 ![Languages Donut](https://quickchart.io/chart?c={
   type:'doughnut',
-  data:{labels:['Python','JavaScript','HTML'],datasets:[{data:[50,30,20],backgroundColor:['#F0DB4F','#3178C6','#E34F26']}]},
-  options:{plugins:{legend:{position:'right'}}}
+  data:{
+    labels:['Python','JavaScript','HTML','CSS','SQL'],
+    datasets:[{
+      data:[40,25,15,10,10],
+      backgroundColor:['#3572A5','#F1E05A','#E34F26','#563D7C','#00758F']
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{position:'right', labels:{color:'#ffffff'}},
+      title:{display:true, text:'Top Languages', color:'#ffffff', font:{size:16}}
+    }
+  },
+  options:{cutout: '50%'}
 })
- 
 
 
